@@ -8,11 +8,11 @@
     <a href="https://github.com/zairdon20/cochef-recipes#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/zairdon20/Budget-app">View Demo</a>
+    <a href="https://github.com/zairdon20/Expense-app">View Demo</a>
     ·
-    <a href="https://github.com/zairdon20/Budget-app/issues">Report Bug</a>
+    <a href="https://github.com/zairdon20/Expense-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/zairdon20/Budget-app/issues">Request Feature</a>
+    <a href="https://github.com/zairdon20/Expense-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -63,6 +63,7 @@ You will be needing:
   https://www.postgresql.org/download/
   ```
 - Bootstrap and it's dependencies including jquery and popper.js.
+- - [Heroku Deploy](https://clinton-budget-app.herokuapp.com/)
 
 
 ### Setup
